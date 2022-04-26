@@ -1,0 +1,17 @@
+{
+  "name": "hello_npm",
+  "version": "1.0.0",
+  "description": "first_npm",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.3",
+    "fs": "0.0.1-security",
+    "math": "^0.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
